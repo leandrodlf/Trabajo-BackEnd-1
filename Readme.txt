@@ -40,6 +40,7 @@ Instalación y ejecución
 Descargar el repositorio y entrar en la carpeta "Trabajo1":
 
 cd Trabajo1
+o ejecutar una terminal dentro de la carpeta
 
 Crear y activar el ambiente virtual:
 
@@ -70,5 +71,6 @@ python manage.py runserver
 Abrir en el navegador:
 
 Home: http://127.0.0.1:8000/home
+
 
 About: http://127.0.0.1:8000/home/about
